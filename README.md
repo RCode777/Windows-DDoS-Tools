@@ -17,7 +17,7 @@ Distributed Denial of Service or DDoS attack is a cyber attack that occurs due t
 
 # How To Install
 
-- `git clone https://github.com/Radensulthan/Windows-DDoS-Tools` | Or, you can download it directly
+- `git clone https://github.com/RCode777/Windows-DDoS-Tools` | Or, you can download it directly
 - `cd Windows-DDoS-Tools` | Or, you can directly open the folder
 
 Type Command `DDoS-Tools.bat` | Or you can open it directly by double-clicking on the file.
